@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/araza6/araza6.github.io.git
 	branch = master
+[submodule "themes/hugo-ink"]
+	path = themes/hugo-ink
+	url = https://github.com/knadh/hugo-ink
