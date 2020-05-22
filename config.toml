@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "araza6"
 
 [params]
-	subtitle = "Single ready to mingle"
+# subtitle = ""
 
 	# Optional 64x64 avatar image.
 	avatar = "/images/pp.jpg"
@@ -47,6 +47,7 @@ weight = 2
 name = "About"
 url = "/about"
 weight = 3
+
 
 # [[menu.main]]
 # name = "Tags"
