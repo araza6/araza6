@@ -13,8 +13,8 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
+# googleAnalytics = "UA-123-45"
+disqusShortname = "araza6"
 
 [params]
 	subtitle = "Single ready to mingle"
