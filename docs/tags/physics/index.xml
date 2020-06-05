@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Asad Raza</title>
-    <link>https://araza6.github.io/</link>
-    <description>Recent content on Asad Raza</description>
+    <title>physics on Asad Raza</title>
+    <link>https://araza6.github.io/tags/physics/</link>
+    <description>Recent content in physics on Asad Raza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://araza6.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://araza6.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,15 +30,6 @@ Autodiff (short for Autodifferentiation) is extensively used in modern machine l
       <guid>https://araza6.github.io/posts/welcome-gsoc/</guid>
       <description>Hello,
 This is my first-ever blog post (as far as I remember really). I planned to start blogging in my freshman year, and it&amp;rsquo;s been almost three years since then. Planning fallacy, as Kahneman would say. Anyway, I should thank Google Summer of Code to finally make me do it (although technically so. Fret not, I will try to make these blogs as accessible as possible) as part of my upcoming summer project with NUMFOCUS&amp;rsquo;s QuTiP.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://araza6.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://araza6.github.io/about/</guid>
-      <description>I am a Computing Mathematics major, and physics and computer science minor here at the City University of Hong Kong. I like to research the union of physics, mathematics and computer science. Most recently, I have worked in the area of quantum control by leveraging deep reinforcement learning. The details of our paper can be found here: https://www.nature.com/articles/s41534-019-0201-8</description>
     </item>
     
   </channel>
