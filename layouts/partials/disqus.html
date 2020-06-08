@@ -1,4 +1,6 @@
-
+{{ if .IsPage }}
+  {{ template "_internal/disqus.html" . }}
+{{ end }}   
 <div id="disqus_thread"></div>
 <script type="text/javascript">
 
