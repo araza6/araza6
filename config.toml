@@ -1,4 +1,8 @@
 baseURL = "https://araza6.github.io/"
+
+googleAnalytics = "UA-167453939-1"
+disqusShortname = "https-araza6-github-io"
+
 languageCode = "en-us"
 title = "Asad Raza"
 theme = "hugo-ink"
@@ -13,11 +17,9 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# googleAnalytics = "UA-123-45"
-disqusShortname = "araza6"
 
 [params]
-subtitle = "Quantum Information & Machine Learning"
+subtitle = "< Quantum Information | Machine Learning >"
 
 	# Optional 64x64 avatar image.
 	avatar = "/images/pp.jpg"
