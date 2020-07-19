@@ -16,6 +16,7 @@ copyright = "© Copyright notice"
 pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+enableEmoji = true
 
 
 [params]
