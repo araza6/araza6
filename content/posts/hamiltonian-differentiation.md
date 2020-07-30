@@ -43,7 +43,7 @@ $$
     \end{equation}
 $$
 
-(and similarly for $\frac{\partial U(\vec{t}, \vec{\tau})}{\partial \tau_{k}}$), it would be nice to be able to autodifferentiate these functions while doing numerical experiments. There are several different parameterizations and writing the code to calculate the derivative each time you change the parametrization scheme can be arduous.
+(and similarly for $\frac{\partial U(\vec{t}, \vec{\tau})}{\partial \tau_{k}}$), it would be nice to be able to [autodifferentiate](https://araza6.github.io/posts/autodiff/autodiff/) these functions while doing numerical experiments. There are several different parameterizations and writing the code to calculate the derivative each time you change the parametrization scheme can be arduous.
 
 If you have been reading my blog, you might know that my [GSoC project](https://araza6.github.io/posts/welcome-gsoc/) involves using JAX to bring autodiff capabilities to quantum routines, so you know now where this is going. If we try to take such derivatives using JAX, it complains. JAX does not support the autodifferentiation (actually, [it does support forward diff now](https://github.com/google/jax/pull/2062), but [backward diff is still a work in progress](https://github.com/google/jax/issues/3447)) of functions that have a matrix as a power of the exponential function. If you write something as simple as 
 
@@ -109,7 +109,10 @@ $$
     \end{equation}
 $$
 
-The visual below shows the learning trajectory:
+The visual below shows the learning trajectory along various 
+points during the learning routine, where each row represents
+the Hinton and Wigner plots at almost equally separted times
+during the learning schedule, starting from the first row (vacuum state):
 
 ![learning-evo!](/images/Hamiltonian_Differentiation/learning-evo.png) 
 
@@ -117,13 +120,11 @@ We see that the last row above (apart from being beautiful) is very close to the
 
 ![target!](/images/Hamiltonian_Differentiation/target-state.png) 
 
-One can run a greater number of epochs (greater than $17$, which is what I used) for even better learning (that is to remove those little orange traces in the Hinton plot). But you get the idea. Without `qgrad`, one would need to write custom functions for the number states, dagger operator, etc, and figure out the trick for the Displace operator (_without_ the matrix exponential). `qgrad` brings all of this together packaged for the user. This is just the beginning. We are exploring what we can do with `qgrad`, and we are excited to see what you will do in about a month's time when we will release the first version of this package. 
+One can run a greater number of epochs for even better learning (that is to remove those little orange traces in the Hinton plot). But you get the idea. Without `qgrad`, one would need to write custom functions for the number states, dagger operator, etc, and figure out the trick for the Displace operator (_without_ the matrix exponential). `qgrad` brings all of this together packaged for the user. This is just the beginning. We are exploring what we can do with `qgrad`, and we are excited to see what you will do in about a month's time when we will release the first version of this package. 
 
 As to why did I talk about unitary parameterizations? Well, the objective was to show what we _can't_ do with JAX and how we can go about it (as we did with the Displace operator). The goal now is to is to construct arbitrary unitary matrices, following a scheme like \ref{no-exp-unitary-decomp} without matrix exponentials, much like what we did for Displace. By the way, if you know of other related unitary parameterizations that do not involve matrix exponentials, free to drop your suggestions in the comments below! 
 
-Once I am done writing the autodifferentiable unitary parametrization, I shall make (hopefully a better organized) post about unitary learning, where I explain from ground-up, what unitary learning is, implement it _without_ `qgrad`, and then implement it _with_ qgrad to juxtapose how `qgrad` would emancipate you from the shackles of writing gradient functions of different parameterizations. Because in autodiff, we trust!
-
-\cite{unitr_imp}
+Once I am done writing the autodifferentiable unitary parametrization, I shall make (hopefully a better organized) post about unitary learning, where I explain from ground-up, what unitary learning is, implement it _without_ `qgrad`, and then implement it _with_ qgrad to juxtapose how `qgrad` would emancipate you from the shackles of writing gradient functions for cost functions involving expoentiating a hamiltonian. Because in autodiff, we trust!
 
 
 # References
@@ -136,13 +137,3 @@ https://arxiv.org/abs/1806.10448 (2019).
 3. C. Jarlskog. _A recursive parametrization of unitary matrices_. https://aip.scitation.org/doi/full/10.1063/1.2038607 (2005).
 
 4. Thomas Fösel, Stefan Krastanov, Florian Marquardt, Liang Jiang. _Efficient cavity control with SNAP gates_. https://arxiv.org/abs/2004.14256 (2020).
-
-\begin{thebibliography}{}
-
-
-\bibitem{unitr_imp}
-Seth Lloyd and Reevu Maity.
-\textit{Efficient implementation of unitary transformations}
-\texttt{https://arxiv.org/abs/1901.03431}
-
-\end{thebibliography}
