@@ -15,7 +15,7 @@ Let me start by claiming that quantum machine learning is basically unitary lear
 
 To establish the idea somewhat formally, we can define unitary learning as the task of learning an optimal paramter vector $\vec{\theta}_{opt}$ that parametrizes $U(\vec{\theta})$ such that $U(\vec{\theta})$ is close enough to some target unitary, $U$.
 
-A natural question now is that what does $U(\vec{\theta})$ look like? Any parametrization that satisfies $U U^{\dagger} = I$ works. Commonly, parameterizations have an exponential term raised to some matrix (hamiltonian). For example, in [Kwok Ho Wan et al.](https://arxiv.org/abs/1806.10448) (2018) authors use the following parametrization where the Paulis are raised in the exponential term
+A natural question now is that what does $U(\vec{\theta})$ look like? Any parametrization that satisfies $U U^{\dagger} = I$ works. Commonly, parameterizations have an exponential term raised to some matrix (hamiltonian). For example, in [Kwok Ho Wan et al.](https://arxiv.org/abs/1806.10448) (2018) the authors use the following parametrization where the Paulis are raised in the exponential term
 
 $$
         \begin{equation}\label{unitary-decomp-oscar}
