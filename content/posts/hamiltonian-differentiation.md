@@ -19,7 +19,7 @@ A natural question now is that what does $U(\vec{\theta})$ look like? Any parame
 
 $$
         \begin{equation}\label{unitary-decomp-oscar}
-            U_{NNn} = \exp[i(\sum_{j_{1}....j_{N} = 0,...,0}^{3...3} \alpha_{j_{1}...j_{N}} (\sigma_{j_{1}} \otimes ... \otimes \sigma_{j_{N}})]
+            U = \exp[i(\sum_{j_{1}....j_{N} = 0,...,0}^{3...3} \alpha_{j_{1}...j_{N}} (\sigma_{j_{1}} \otimes ... \otimes \sigma_{j_{N}})]
         \end{equation}
 $$
 
