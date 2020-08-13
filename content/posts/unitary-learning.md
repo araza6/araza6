@@ -115,7 +115,7 @@ grad(cost)(params, ket_input, ket_output)
 ```
 without worrying about what the analytic form of the derivative looks like and without needing to write a custom finite differences method. 
 
-This hopefully shows how `qgrad` can be handy for optimization tasks that involve Hamiltonian learning. With qgrad, one can perform circuit learning as well! A notebook on Variational Quantum Algorithms is already in works. To track the project on GitHub, open issues or pull requests, please follow this [link])(https://github.com/qgrad/qgrad).
+This hopefully shows how `qgrad` can be handy for optimization tasks that involve Hamiltonian learning. With qgrad, one can perform circuit learning as well! A notebook on Variational Quantum Algorithms is already in works. To track the project on GitHub, open issues or pull requests, please follow this [link](https://github.com/qgrad/qgrad).
 
 ## References
 1. Jing, Li, et al. "Tunable efficient unitary neural networks (eunn) and their application to rnns." International Conference on Machine Learning. 2017.
