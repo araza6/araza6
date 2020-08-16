@@ -36,13 +36,13 @@ subtitle = "< Quantum Information | Machine Learning >"
 	# customJS = ["js/custom.js", "js/custom1.js"]  # Custom JS scripts.
 
 # Nav.
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+#[[menu.main]]
+#name = "Home"
+#url = "/"
+#weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Blog"
 url = "/posts"
 weight = 2
 
