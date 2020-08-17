@@ -4,7 +4,9 @@ title: 'About Me'
 type: 'page'
 ---
 
-I am a Computing Mathematics major, and physics and computer science minor here at the City University of Hong Kong. Broadly, I like to research the union of physics, mathematics and computer science. Currently, I am a [Google Summer of Code](https://summerofcode.withgoogle.com/) student with [QuTiP](http://qutip.org/) working to bring autodifferentiation capabilities to complex hamiltonians in QuTiP. For further information, see my resume [here](/Asad_RAZA_resume.pdf)
+I am a senior year undergrad in Computing Mathematics, with a minors in physics and computer science here at the [City University of Hong Kong](https://www.cityu.edu.hk/). 
+
+Broadly, I like to research the marriage between quantum information science and learning theory. At present, I am a [Google Summer of Code](https://summerofcode.withgoogle.com/) student with [QuTiP](http://qutip.org/) working to bring autodifferentiation capabilities to complex hamiltonians in QuTiP. For further information, see my resume [here](/Asad_RAZA_resume.pdf)
 
 
 
