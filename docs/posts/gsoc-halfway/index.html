@@ -16,25 +16,25 @@ if (!doNotTrack) {
 	ga('send', 'pageview');
 }
 </script>
-<title>First Blog Post: GSoC 2020 - Asad Raza</title><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta itemprop="name" content="First Blog Post: GSoC 2020">
-<meta itemprop="description" content="About the upcoming GSoC project">
-<meta itemprop="datePublished" content="2020-05-22T00:00:00+00:00" />
-<meta itemprop="dateModified" content="2020-05-22T00:00:00+00:00" />
-<meta itemprop="wordCount" content="224">
+<title>Halfway through Google Summer of Code - Asad Raza</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="Halfway through Google Summer of Code">
+<meta itemprop="description" content="Google Summer of Code 2020 updates">
+<meta itemprop="datePublished" content="2020-07-19T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2020-07-19T00:00:00+00:00" />
+<meta itemprop="wordCount" content="264">
 
 
 
 <meta itemprop="keywords" content="gsoc," />
-<meta property="og:title" content="First Blog Post: GSoC 2020" />
-<meta property="og:description" content="About the upcoming GSoC project" />
+<meta property="og:title" content="Halfway through Google Summer of Code" />
+<meta property="og:description" content="Google Summer of Code 2020 updates" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://araza6.github.io/posts/welcome-gsoc/" />
-<meta property="article:published_time" content="2020-05-22T00:00:00+00:00" />
-<meta property="article:modified_time" content="2020-05-22T00:00:00+00:00" />
+<meta property="og:url" content="https://araza6.github.io/posts/gsoc-halfway/" />
+<meta property="article:published_time" content="2020-07-19T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-07-19T00:00:00+00:00" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="First Blog Post: GSoC 2020"/>
-<meta name="twitter:description" content="About the upcoming GSoC project"/>
+<meta name="twitter:title" content="Halfway through Google Summer of Code"/>
+<meta name="twitter:description" content="Google Summer of Code 2020 updates"/>
 
 <script type="application/javascript">
 var doNotTrack = false;
@@ -106,21 +106,22 @@ if (!doNotTrack) {
 				
 					<div class="meta">
 						<div class="date">
-							<span class="day">22</span>
-							<span class="rest">May 2020</span>
+							<span class="day">19</span>
+							<span class="rest">Jul 2020</span>
 						</div>
 					</div>
 				
 				<div class="matter">
-					<h1 class="title">First Blog Post: GSoC 2020</h1>
+					<h1 class="title">Halfway through Google Summer of Code</h1>
 				</div>
 			</div>
 					
 			<div class="markdown">
-				<p>Hello,</p>
-<p>This is my first-ever blog post (as far as I remember really). I planned to start blogging in my freshman year, and it&rsquo;s been almost three years since then. Planning fallacy, as Kahneman would say. Anyway, I should thank Google Summer of Code to finally make me do it (although technically so. Fret not, I will try to make these blogs as accessible as possible) as part of my upcoming summer project with NUMFOCUS&rsquo;s QuTiP. Primarily, I will be working to make QuTiP auto-differentiable. A bit more about my project.</p>
-<p>Modern Machine Learning libraries provide a way to exponentiate hamiltonian (matrices), but there is no smooth workflow that allows a user to take derivates of these exponentials (and physicists like that, you know). The project shall bring about autograd-type capabilties, but for exponentials of Hamliltonians. One obvious use-case of these auto-diff capabilities would be to the problems of hamiltonian Learning. Thus, the project shall also package gradient based optimizers to let the user perform tasks like unitary learning. Read the full details of the project in my proposal <a href="/GSoC_2020_QuTiP_Proposal.pdf">here</a>.</p>
-<p>I am very excited about the project, and so are my mentors. I will be posting bi-weekly blogs about the status of my project and my learning journey along the way. So, keep an eye if that&rsquo;s something you would want to read about!</p>
+				<p>It is about mid-July, and I am midway through my internship with Google Summer of Code (GSoC). This post is intended to serve as a quick update on the progress of my ongoing project about autodifferentiation of functions involving quantum processes.</p>
+<p>In my <a href="https://araza6.github.io/posts/qobj-jax-interface/">last post</a>, I highlighted how is it difficult to interface QuTiP with JAX. As a (temporary) solution, I highlighted towards the end of the post, that the way forward would be to make a light-weight, but JAX-compatible, QuTiP. Two weeks later, here we are with a light-weight QuTiP that mimics essential quantum operations available in QuTiP. I expect that our initial set of users would be the ones who might have used QuTiP in the past. With that in mind, the API is as close to QuTiP as possible. All the QuTiP functions that I have rewritten, I have tried my best to keep the arguments, and function names the same. While the light-weight QuTiP is still very light, in the sense that it has a very limited set of functions, I will continue expanding upon the functions as we move on.</p>
+<p>The functions that are currently supported, however, are sufficient to reproduce some papers that can already show all the amazing things we can do with <code>qgrad_qutip</code>. At the moment, I am working on reproducing <a href="https://arxiv.org/abs/1901.03431">this</a>, <a href="https://arxiv.org/abs/2001.11897">this</a> and <a href="https://arxiv.org/abs/2004.14256">this</a> paper.
+The pull requests for these are still under works since JAX&rsquo;s autodiff comes with some caveats. More on these caveats in a another post.</p>
+<p>Looking ahead, I plan to wrap up the documentation and tutorials for later half of July.</p>
 
 			</div>
 

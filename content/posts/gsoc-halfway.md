@@ -6,7 +6,7 @@ date: "2020-07-19"
 
 description: "Google Summer of Code 2020 updates"
 
-tags: [gsoc, qgrad]
+tags: [gsoc]
 
 
 ---

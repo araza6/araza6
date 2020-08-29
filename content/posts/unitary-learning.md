@@ -6,7 +6,7 @@ date: "2020-08-13"
 
 description: "Introduction to unitary learning and implementing it in qgrad"
 
-tags: [gsoc, code, physics]
+tags: [gsoc, code, physics. qgrad]
 
 ---
 ## Background

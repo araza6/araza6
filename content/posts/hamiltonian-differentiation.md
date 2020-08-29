@@ -6,7 +6,7 @@ date: "2020-07-27"
 
 description: "JAX's inability to differentiate exponentials of quantum hamiltonians and ways around it"
 
-tags: [gsoc, code, physics]
+tags: [gsoc, code, physics, qgrad]
 
 
 ---

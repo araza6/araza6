@@ -6,7 +6,7 @@ date: "2020-05-22"
 
 description: "About the upcoming GSoC project"
 
-tags: [gsoc, code, physics]
+tags: [gsoc]
 
 
 ---

@@ -6,7 +6,7 @@ date: "2020-06-30"
 
 description: "Issues with interfacing JAX with QuTiP and alternate routes to make QuTiP autodifferentiable"
 
-tags: [gsoc, code, physics]
+tags: [gsoc, code, physics, qgrad]
 
 
 ---
