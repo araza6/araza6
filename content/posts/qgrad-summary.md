@@ -34,7 +34,7 @@ You may have any quantum function whose
 derivative you might want to evaluate, you can construct your 
 favorite quantum routine using the functions we provide as part of
 our [API](https://qgrad.readthedocs.io/en/latest/api.html).
-All the functions in our API are autdiff compatible, which is to 
+All the functions in our API are autodiff compatible, which is to 
 say that you can simply take gradients of your function
 
 ```python
@@ -83,7 +83,7 @@ omegas = params[N * (N - 1):]
 unitary = Unitary(N)(thetas, phis, omegas)
 ```
 
-Full unitary learning tutorial 
+The full unitary learning tutorial 
 can be found [here](https://qgrad.readthedocs.io/en/latest/Unitary-Learning-qgrad.html), 
 where starting from a randomly parametrized unitary, we learn the desired
 target unitary. 
