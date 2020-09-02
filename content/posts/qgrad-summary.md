@@ -44,7 +44,7 @@ from jax import grad
 def qfunc():
     ....
 
-gradient = grad(func)
+gradient = grad(qfunc)
 ```
 
 Often times, one can simply use fidelity as the cost function
