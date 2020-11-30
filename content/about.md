@@ -4,9 +4,12 @@ title: 'About Me'
 type: 'page'
 ---
 
-I am a senior year undergrad in Computing Mathematics, with minors in physics and computer science here at [City University of Hong Kong](https://www.cityu.edu.hk/). 
-
-Broadly, I like to research the marriage between quantum information science and learning theory. At present, I am a [Google Summer of Code](https://summerofcode.withgoogle.com/) student with [QuTiP](http://qutip.org/) working to bring autodifferentiation capabilities to complex hamiltonians in QuTiP. For further information, see my resume [here](/Asad_RAZA_resume.pdf)
+I am a senior year undergrad in Computing Mathematics, with minors in physics and computer science here at the [City University of Hong Kong](https://www.cityu.edu.hk/). Broadly, I like to research the marriage between quantum information science and learning theory. At present, I am an exchange student at the Faculty of Mathematics, University of Waterloo.
 
 
 
+
+## Talks/Presentations
+
+- *Quantum advantage in training binary neural networks* ([1810.12948](https://arxiv.org/abs/1810.12948)) [[slides](/QBFNNs_QIC710.pdf)] \
+Research Project for the course [QIC 710](http://cleve.iqc.uwaterloo.ca/qic710/index.html): Introduction to Quantum Information Processing at the University of Waterloo, Nov 30, 2020.
