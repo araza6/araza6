@@ -11,5 +11,5 @@ I am a senior year undergrad in Computing Mathematics, with minors in physics an
 
 ## Talks/Presentations
 
-- *Quantum advantage in training binary neural networks* ([1810.12948](https://arxiv.org/abs/1810.12948)) [[slides](/QBFNNs_QIC710.pdf)] \
+- *Quantum advantage in training binary neural networks* ([1810.12948](https://arxiv.org/abs/1810.12948)) [[slides](/QBFNNs-QIC710.pdf)] \
 Research Project for the course [QIC 710](http://cleve.iqc.uwaterloo.ca/qic710/index.html): Introduction to Quantum Information Processing at the University of Waterloo, Nov 30, 2020.
