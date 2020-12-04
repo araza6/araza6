@@ -4,7 +4,7 @@ title: 'About Me'
 type: 'page'
 ---
 
-I am a senior year undergrad in Computing Mathematics, with minors in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/). In Shenzhen next door, I am chasing quantum speedups in machine learning at [Quantum Information and & Intelligent Energy Harvesting Lab](http://www.qienergy.tech/People?_l=en#).
+I am a senior year undergrad in Computing Mathematics, with minors in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/). In Shenzhen next door, I am chasing quantum speedups for machine learning at [Quantum Information and & Intelligent Energy Harvesting Lab](http://www.qienergy.tech/People?_l=en#).
 
 
 
