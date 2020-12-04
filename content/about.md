@@ -4,7 +4,7 @@ title: 'About Me'
 type: 'page'
 ---
 
-I am a senior year undergrad in Computing Mathematics, with minors in physics and computer science here at the [City University of Hong Kong](https://www.cityu.edu.hk/). Broadly, I like to research the marriage between quantum information science and learning theory. At present, I am an exchange student at the Faculty of Mathematics, University of Waterloo.
+I am a senior year undergrad in Computing Mathematics, with minors in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/). In Shenzhen next door, I am a visiting research student in Quantum Machine Learning at [Quantum Information and & Intelligent Energy Harvesting Lab](http://www.qienergy.tech/People?_l=en#).
 
 
 
