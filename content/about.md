@@ -7,6 +7,9 @@ type: 'page'
 I am a senior year undergrad in Computing Mathematics, with minors in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/). In Shenzhen next door, I am chasing quantum speedups for machine learning at [Quantum Information and & Intelligent Energy Harvesting Lab](http://www.qienergy.tech/People?_l=en#).
 
 
+## Publications
+Xiao-Ming Zhang, Zezhu Wei, **Raza Asad**, Xu-Chen Yang, Xin Wang. When does reinforcement learning stand out in quantum control? A comparative study on state preparation. 
+*npj Quantum Information*. https://www.nature.com/articles/s41534-019-0201-8. arXiv: [1902.02157](https://arxiv.org/abs/1902.02157)
 
 
 ## Talks/Presentations
