@@ -14,7 +14,7 @@ Xiao-Ming Zhang, Zezhu Wei, **Raza Asad**, Xu-Chen Yang, Xin Wang. When does rei
 
 ## Talks/Presentations
 
-- *Concentration of entropy of a random states* ([0407049](https://arxiv.org/abs/quant-ph/0407049)) [[slides](/QIC890-presentation.pdf)] \
+- *Concentration of entropy of random states* ([0407049](https://arxiv.org/abs/quant-ph/0407049)) [[slides](/QIC890-presentation.pdf)] \
 Research Project for the course [QIC 890](http://www.math.uwaterloo.ca/~wcleung/co781-f2020.html): Theory of Quantum Communication at the University of Waterloo, Dec 21, 2020.
 
 - *Quantum advantage in training binary neural networks* ([1810.12948](https://arxiv.org/abs/1810.12948)) [[slides](/QBFNNs-QIC710.pdf)] \
