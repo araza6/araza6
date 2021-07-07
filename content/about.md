@@ -19,3 +19,7 @@ Research Project for the course [QIC 890](http://www.math.uwaterloo.ca/~wcleung/
 
 - *Quantum advantage in training binary neural networks* ([1810.12948](https://arxiv.org/abs/1810.12948)) [[slides](/QBFNNs-QIC710.pdf)] \
 Research Project for the course [QIC 710](http://cleve.iqc.uwaterloo.ca/qic710/index.html): Introduction to Quantum Information Processing at the University of Waterloo, Nov 30, 2020.
+
+- *When does reinforcement learning stand out in quantum control? A
+comparative study on state preparation*([1902.02157](https://arxiv.org/abs/1902.02157)) [[slides](/RL_in_QCtrl.pdf)] \
+Invited talk at Washington Quantum Computing Meetup. 
