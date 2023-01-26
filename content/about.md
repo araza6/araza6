@@ -23,4 +23,4 @@ Research Project for the course [QIC 710](http://cleve.iqc.uwaterloo.ca/qic710/i
 
 - *When does reinforcement learning stand out in quantum control? A
 comparative study on state preparation*([1902.02157](https://arxiv.org/abs/1902.02157)) [[slides](/RL_in_QCtrl.pdf)] \
-Invited talk at Washington Quantum Computing Meetup, May 27th, 2021. 
+Invited talk at Washington Quantum Computing Meetup, May 27th, 2021.
