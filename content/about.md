@@ -3,13 +3,14 @@ title: 'About Me'
 # date: 2020-05-21T21:37:58+05:30
 type: 'page'
 ---
-
-I am a senior year undergrad in Computing Mathematics, with minors in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/). In Shenzhen next door, I am chasing quantum speedups for machine learning at [Quantum Information and & Intelligent Energy Harvesting Lab](http://www.qienergy.tech/People?_l=en#).
-
+I am a Master student in physics at [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html) in the group of [Jens Eisert](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html), where I am working on deriving efficient bounds on the learning of quantum channels. Previously, I was an undergrad in Computing Mathematics, with minors in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/).
 
 ## Publications
 Xiao-Ming Zhang, Zezhu Wei, **Raza Asad**, Xu-Chen Yang, Xin Wang. When does reinforcement learning stand out in quantum control? A comparative study on state preparation. 
 *npj Quantum Information*. https://www.nature.com/articles/s41534-019-0201-8. arXiv: [1902.02157](https://arxiv.org/abs/1902.02157)
+
+## Preprints
+Manuel S. Rudolph, Sukin Sim, **Asad Raza**, Michal Stechly, Jarrod R. McClean, Eric R. Anschuetz, Luis Serrano, Alejandro Perdomo-Ortiz. ORQVIZ: Visualizing High-Dimensional Landscapes in Variational Quantum Algorithms. arXiv: [2111.04695](https://arxiv.org/abs/2111.04695)
 
 
 ## Talks/Presentations
