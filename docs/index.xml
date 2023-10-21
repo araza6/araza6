@@ -7,19 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://araza6.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://araza6.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>qgrad: An autodifferention framework for quantum physics routines</title>
+      <title>qgrad: An autodifferentiation framework for quantum physics routines</title>
       <link>https://araza6.github.io/posts/qgrad-summary/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://araza6.github.io/posts/qgrad-summary/</guid>
-      <description>This is the last post in a series of posts I have been puttting up for my Google Summer of Code (GSoC) 2020 project. This post shall serve as a &amp;ldquo;Getting Started&amp;rdquo; guide to QuTiP in that it will walk you through all that qgrad is able to help you with ad of this date.
-In essence, qgrad is a package that makes autodifferentiation of quantum functions easier. You may have any quantum function whose derivative you might want to evaluate, you can construct your favorite quantum routine using the functions we provie in our API Reference.</description>
+      <description>This is the last post in a series of posts I have been puttting up for my Google Summer of Code (GSoC) 2020 project. This post shall serve as a &amp;ldquo;Getting Started&amp;rdquo; guide to qgrad, in that it will walk you through all the major features of qgrad and how they can be possibly used. But before that, here are two quick links in case you want to take a nose-dive and explore yourself</description>
     </item>
     
     <item>
@@ -86,8 +81,8 @@ This is my first-ever blog post (as far as I remember really). I planned to star
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://araza6.github.io/about/</guid>
-      <description>I am a senior year undergrad in Computing Mathematics, with minors in physics and computer science here at City University of Hong Kong.
-Broadly, I like to research the marriage between quantum information science and learning theory. At present, I am a Google Summer of Code student with QuTiP working to bring autodifferentiation capabilities to complex hamiltonians in QuTiP. For further information, see my resume here</description>
+      <description>I am a Master&amp;rsquo;s student in physics at Freie Universität Berlin in the group of Jens Eisert, where I am working on deriving efficient bounds on the learning of special classes of quantum channels. Previously, I was an undergrad in Computing Mathematics, with minors in physics and computer science at the City University of Hong Kong.
+Publications Xiao-Ming Zhang, Zezhu Wei, Raza Asad, Xu-Chen Yang, Xin Wang. When does reinforcement learning stand out in quantum control?</description>
     </item>
     
   </channel>

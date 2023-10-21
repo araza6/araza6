@@ -20,7 +20,7 @@ enableEmoji = true
 
 
 [params]
-subtitle = "< Quantum Information | Machine Learning >"
+subtitle = ""
 
 	# Optional 64x64 avatar image.
 	avatar = "/images/pp.jpg"
@@ -65,7 +65,7 @@ url = "https://github.com/araza6"
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/hermitian_asad"
+url = "https://twitter.com/non_unitary"
 
 [[params.social]]
 name = "Linkedin"
