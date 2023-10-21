@@ -42,14 +42,15 @@ subtitle = ""
 #weight = 1
 
 [[menu.main]]
-name = "Blog"
-url = "/posts"
+name = "About"
+url = "/about"
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Blog"
+url = "/posts"
 weight = 3
+
 
 
 # [[menu.main]]
