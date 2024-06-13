@@ -20,6 +20,7 @@ enableEmoji = true
 
 
 [params]
+	mainSection = ["/about"]
 subtitle = ""
 
 	# Optional 64x64 avatar image.
@@ -42,14 +43,14 @@ subtitle = ""
 #weight = 1
 
 [[menu.main]]
-name = "About"
-url = "/about"
-weight = 2
+#name = "About"
+url = "/"
+weight = 1
 
-[[menu.main]]
-name = "Blog"
-url = "/posts"
-weight = 3
+#[[menu.main]]
+#name = "Blog"
+#url = "/posts"
+#weight = 2
 
 
 
