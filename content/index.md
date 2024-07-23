@@ -11,10 +11,12 @@ I like to think about questions surrounding quantum computation and complexity t
 Email: asadraza at uchicago dot edu
 
 ## Publications
+* **Complexity of geometrically local stoquastic Hamiltonians** \[[pdf](https://arxiv.org/abs/2407.15499)\]  
+Asad Raza, Jens Eisert, Alex B. Grilo.
+
 * **Online learning of quantum processes** \[[pdf](https://arxiv.org/abs/2406.04250)\]  
 Asad Raza, Matthias C. Caro, Jens Eisert, Sumeet Khatri.
   
-
 * **ORQVIZ: Visualizing High-Dimensional Landscapes in Variational Quantum Algorithms** \[[pdf](https://arxiv.org/abs/2111.04695)\]  
 Manuel S. Rudolph, Sukin Sim, Asad Raza, Michal Stechly, Jarrod R. McClean, Eric R. Anschuetz, Luis Serrano, Alejandro Perdomo-Ortiz.
 
