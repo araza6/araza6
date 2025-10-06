@@ -5,7 +5,7 @@ type: 'page'
 ---
 Starting Fall 2024, I will be a PhD student in Computer Science at [UChicago](https://cs.uchicago.edu), advised by [Bill Fefferman](https://www.billfefferman.com). 
 
-Recently, I completed my Master's in physics at [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), co-supervised by [Jens Eisert](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html) and [Alex Bredariol Grilo](https://abgrilo.github.io).  Before that, I obtained my undergraduate degree in Computing Mathematics, with minors in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/), advised by [Oscar Dahlsten](https://scholars.cityu.edu.hk/en/persons/oscar-carl-olof-dahlsten(f2725371-6bf7-49f6-b36d-e1e80bd7be63).html).  
+Recentl, I completed my Master's in physics at [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), co-supervised by [Jens Eisert](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html) and [Alex Bredariol Grilo](https://abgrilo.github.io).  Before that, I obtained my undergraduate degree in Computing Mathematics, with minors in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/), advised by [Oscar Dahlsten](https://scholars.cityu.edu.hk/en/persons/oscar-carl-olof-dahlsten(f2725371-6bf7-49f6-b36d-e1e80bd7be63).html).  
 
 I like to think about questions surrounding quantum computation and complexity theory.  
 Email: asadraza at uchicago dot edu
