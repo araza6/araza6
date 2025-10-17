@@ -3,19 +3,23 @@ title: 'About'
 # date: 2020-05-21T21:37:58+05:30
 type: 'page'
 ---
-Starting Fall 2024, I will be a PhD student in Computer Science at [UChicago](https://cs.uchicago.edu), advised by [Bill Fefferman](https://www.billfefferman.com). 
+I am a PhD candidate at Freie Universität Berlin in [Jens Eisert's group](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html). Broadly, I work on quantum computation and quantum information. My research centers on quantum learning and optimization, complexity theory, and verifiable quantum advantage schemes on present-day quantum devices.
 
-Recentl, I completed my Master's in physics at [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), co-supervised by [Jens Eisert](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html) and [Alex Bredariol Grilo](https://abgrilo.github.io).  Before that, I obtained my undergraduate degree in Computing Mathematics, with minors in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/), advised by [Oscar Dahlsten](https://scholars.cityu.edu.hk/en/persons/oscar-carl-olof-dahlsten(f2725371-6bf7-49f6-b36d-e1e80bd7be63).html).  
-
-I like to think about questions surrounding quantum computation and complexity theory.  
-Email: asadraza at uchicago dot edu
+I completed my Master's in physics at [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html), co-supervised by [Jens Eisert](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html) and [Alex Bredariol Grilo](https://abgrilo.github.io).  Before that, I obtained my undergraduate degree in Computing Mathematics with a double minor in physics and computer science at the [City University of Hong Kong](https://www.cityu.edu.hk/), advised by [Oscar Dahlsten](https://scholars.cityu.edu.hk/en/persons/odahlste).  
+  
+Email: asad.raza@fu-berlin.de
 
 ## Publications
+* **Computational Relative Entropy** \[[pdf](https://arxiv.org/abs/2509.20472)\]  
+Johannes Jakob Meyer, Asad Raza, Jacopo Rizzo, Lorenzo Leone, Sofiene Jerbi, Jens Eisert.
+
 * **Complexity of geometrically local stoquastic Hamiltonians** \[[pdf](https://arxiv.org/abs/2407.15499)\]  
-Asad Raza, Jens Eisert, Alex B. Grilo.
+Asad Raza, Jens Eisert, Alex B. Grilo.  
+[To appear in Quantum]
 
 * **Online learning of quantum processes** \[[pdf](https://arxiv.org/abs/2406.04250)\]  
-Asad Raza, Matthias C. Caro, Jens Eisert, Sumeet Khatri.
+Asad Raza, Matthias C. Caro, Jens Eisert, Sumeet Khatri.  
+TQC 2025, Long Oral Talk at [QTML 2024](https://www.youtube.com/watch?v=wwMtHRCeqWc).
   
 * **ORQVIZ: Visualizing High-Dimensional Landscapes in Variational Quantum Algorithms** \[[pdf](https://arxiv.org/abs/2111.04695)\]  
 Manuel S. Rudolph, Sukin Sim, Asad Raza, Michal Stechly, Jarrod R. McClean, Eric R. Anschuetz, Luis Serrano, Alejandro Perdomo-Ortiz.

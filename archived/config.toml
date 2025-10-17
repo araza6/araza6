@@ -54,6 +54,11 @@ weight = 3
 # weight = 4
 
 [[params.social]]
+name = "Google Scholar"
+icon = "Google Scholar"
+url = "https://scholar.google.com/citations?user=aYUG6GUAAAAJ&hl=en"
+
+[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/araza6"

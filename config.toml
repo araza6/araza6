@@ -18,6 +18,9 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 enableEmoji = true
 
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [params]
 	mainSection = ["/about"]
@@ -60,6 +63,11 @@ weight = 1
 # weight = 4
 
 [[params.social]]
+name = "Google Scholar"
+ai = "google-scholar"
+url = "https://scholar.google.com/citations?user=aYUG6GUAAAAJ&hl=en"
+
+[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/araza6"
@@ -73,6 +81,8 @@ url = "https://twitter.com/non_unitary"
 name = "Linkedin"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/asad-razaa/"
+
+
 
 [taxonomies]
    tag = "tags"
