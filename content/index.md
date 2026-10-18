@@ -10,16 +10,26 @@ I completed my Master's in physics at [Freie Universität Berlin](https://www.fu
 Email: asad.raza@fu-berlin.de
 
 ## Publications
-* **Computational Relative Entropy** \[[pdf](https://arxiv.org/abs/2509.20472)\]  
-Johannes Jakob Meyer, Asad Raza, Jacopo Rizzo, Lorenzo Leone, Sofiene Jerbi, Jens Eisert.
+* **Verification Complexity and Extension of Classical Shadows** \[[pdf](https://arxiv.org/abs/2609.40107)\].   
+Georgios Karaiskos,  Asad Raza, Dorian Rudolph, Dax Enshan Koh, Sevag Gharibian.
 
-* **Complexity of geometrically local stoquastic Hamiltonians** \[[pdf](https://arxiv.org/abs/2407.15499)\]  
+* **Distinctness threshold for pseudorandom unitaries** \[[pdf](https://arxiv.org/abs/2609.03065)\].  
+Asad Raza, Bill Fefferman, Jens Eisert.
+
+* **The computational two-way quantum capacity** \[[pdf](https://arxiv.org/abs/2601.15393)\].  
+Johannes Jakob Meyer, Jacopo Rizzo, Asad Raza, Lorenzo Leone, Sofiene Jerbi, Jens Eisert
+
+* **Computational Relative Entropy** \[[pdf](https://arxiv.org/abs/2509.20472)\].  
+Johannes Jakob Meyer, Asad Raza, Jacopo Rizzo, Lorenzo Leone, Sofiene Jerbi, Jens Eisert.  
+[QIP 2026](https://qip2026.lu.lv/programme/accepted-papers/)
+
+* **Complexity of geometrically local stoquastic Hamiltonians** \[[pdf](https://arxiv.org/abs/2407.15499)\].   
 Asad Raza, Jens Eisert, Alex B. Grilo.  
-[To appear in Quantum]
+[Quantum (2026)](https://quantum-journal.org/papers/q-2026-02-11-2004/)
 
-* **Online learning of quantum processes** \[[pdf](https://arxiv.org/abs/2406.04250)\]  
+* **Online learning of quantum processes** \[[pdf](https://arxiv.org/abs/2406.04250)\].  
 Asad Raza, Matthias C. Caro, Jens Eisert, Sumeet Khatri.  
-TQC 2025, Long Oral Talk at [QTML 2024](https://www.youtube.com/watch?v=wwMtHRCeqWc).
+[TQC 2025](https://tqc.iaqi.org/2025/accepted-talks/index.html), Long Oral Talk at [QTML 2024](https://www.youtube.com/watch?v=wwMtHRCeqWc).
   
 * **ORQVIZ: Visualizing High-Dimensional Landscapes in Variational Quantum Algorithms** \[[pdf](https://arxiv.org/abs/2111.04695)\]  
 Manuel S. Rudolph, Sukin Sim, Asad Raza, Michal Stechly, Jarrod R. McClean, Eric R. Anschuetz, Luis Serrano, Alejandro Perdomo-Ortiz.
