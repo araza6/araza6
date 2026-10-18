@@ -2,54 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://araza6.github.io/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/tags/code/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/tags/gsoc/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/tags/physics/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/posts/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/posts/post-8/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/tags/qgrad/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/posts/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/posts/qgrad-summary/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/tags/</loc>
-    <lastmod>2020-08-29T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/posts/unitary-learning/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/posts/post-7/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/tags/physics.-qgrad/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/posts/post-5/</loc>
+    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/posts/hamiltonian-differentiation/</loc>
-    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/posts/post-6/</loc>
+    <lastmod>2018-03-18T12:13:36+05:30</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/posts/gsoc-halfway/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/posts/post-4/</loc>
+    <lastmod>2018-03-18T12:13:35+05:30</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/posts/qobj-jax-interface/</loc>
-    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/posts/post-3/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/posts/autodiff/autodiff/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/tags/procrastinating/</loc>
+    <lastmod>2018-03-18T12:13:32+05:30</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/tags/machine-learning/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/posts/post-2/</loc>
+    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/posts/welcome-gsoc/</loc>
-    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <loc>localhost:1313/tags/space/</loc>
+    <lastmod>2018-03-18T12:13:30+05:30</lastmod>
   </url><url>
-    <loc>https://araza6.github.io/about/</loc>
+    <loc>localhost:1313/tags/primer/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>localhost:1313/posts/post-1/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>localhost:1313/tags/todo/</loc>
+    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>localhost:1313/about/</loc>
   </url>
 </urlset>
